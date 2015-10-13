@@ -1,0 +1,40 @@
+<manifest alg="2" build="30" opt="false" iceEnabled="true">
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="318221349" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="3966619614" mt="1444658756300" redirect="false"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="3983832653"/>
+    <file name="index.css" crc="3798151547" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:tablet>index"/>
+    <file name="museutils.js" crc="4291592202" ref="index:tablet>index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="291134478" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="4006931061" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3788803530" ref="index"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index:tablet>index"/>
+    <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="geremia_logo.png" crc="405195407" ref="index"/>
+    <file name="2-takeaway.png" crc="4131864107" ref="index"/>
+    <file name="1-market.png" crc="264877748" ref="index"/>
+    <file name="3-catering.png" crc="40883275" ref="index"/>
+    <file name="homepage.jpg" crc="117141713" ref="index"/>
+    <file name="tira_3_582.jpg" crc="365017030" ref="index"/>
+    <file name="tira_001.jpg" crc="3883599314" ref="index"/>
+    <file name="classic.png" crc="94439101" ref="index"/>
+    <file name="bonativo-logo.png" crc="327611612" ref="index"/>
+    <file name="erdbeeren.png" crc="4074653026" ref="index"/>
+    <file name="matcha2.png" crc="3877263738" ref="index"/>
+    <file name="geremia kino banner-01-u1539-fr.jpg" crc="4292170059" ref="index"/>
+    <file name="g.png" crc="424540567" ref="index"/>
+    <file name="facebookwhite-dfeefbea3b3a3af225bb0d748e348b60.png" crc="251675551" ref="index"/>
+    <file name="geremia logo.png" crc="193746664" ref="index"/>
+    <file name="tira_3_728.jpg" crc="4177309476" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4150277887" mt="1444731022072" redirect="true"/>
+</manifest>
