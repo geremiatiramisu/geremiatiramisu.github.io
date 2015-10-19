@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://geremia.html/images/geremia_logo.png</loc>
+    <loc>http://geremia.html/images/favicon.ico</loc>
     <lastmod>2015-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://geremia.html/images/2-takeaway.png</loc>
+    <loc>http://geremia.html/images/homepage.jpg</loc>
+    <lastmod>2015-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://geremia.html/images/geremia%20logo.png</loc>
+    <lastmod>2015-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://geremia.html/images/geremia_logo.png</loc>
     <lastmod>2015-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -19,13 +31,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://geremia.html/images/3-catering.png</loc>
+    <loc>http://geremia.html/images/2-takeaway.png</loc>
     <lastmod>2015-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://geremia.html/images/homepage.jpg</loc>
+    <loc>http://geremia.html/images/3-catering.png</loc>
     <lastmod>2015-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -43,13 +55,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://geremia.html/images/classic.png</loc>
+    <loc>http://geremia.html/images/bonativo-logo.png</loc>
     <lastmod>2015-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://geremia.html/images/bonativo-logo.png</loc>
+    <loc>http://geremia.html/images/classic.png</loc>
     <lastmod>2015-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -62,30 +74,6 @@
   </url>
   <url>
     <loc>http://geremia.html/images/matcha2.png</loc>
-    <lastmod>2015-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://geremia.html/images/g.png</loc>
-    <lastmod>2015-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://geremia.html/images/facebookwhite-dfeefbea3b3a3af225bb0d748e348b60.png</loc>
-    <lastmod>2015-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://geremia.html/images/geremia%20logo.png</loc>
-    <lastmod>2015-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://geremia.html/images/favicon.ico</loc>
     <lastmod>2015-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -104,6 +92,18 @@
   </url>
   <url>
     <loc>http://geremia.html/images/geremia%20kino%20banner-01.jpg</loc>
+    <lastmod>2015-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://geremia.html/images/g.png</loc>
+    <lastmod>2015-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://geremia.html/images/facebookwhite-dfeefbea3b3a3af225bb0d748e348b60.png</loc>
     <lastmod>2015-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
