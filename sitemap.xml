@@ -1,104 +1,158 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://geremia.html/images/geremia_logo.png</loc>
-    <lastmod>2015-10-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://geremia.html/images/2-takeaway.png</loc>
-    <lastmod>2015-10-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://geremia.html/images/1-market.png</loc>
-    <lastmod>2015-10-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://geremia.html/images/3-catering.png</loc>
-    <lastmod>2015-10-13</lastmod>
+    <loc>http://geremia.html/images/favicon.ico</loc>
+    <lastmod>2015-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://geremia.html/images/homepage.jpg</loc>
-    <lastmod>2015-10-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://geremia.html/images/tira_3_582.jpg</loc>
-    <lastmod>2015-10-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://geremia.html/images/tira_001.jpg</loc>
-    <lastmod>2015-10-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://geremia.html/images/classic.png</loc>
-    <lastmod>2015-10-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://geremia.html/images/bonativo-logo.png</loc>
-    <lastmod>2015-10-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://geremia.html/images/erdbeeren.png</loc>
-    <lastmod>2015-10-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://geremia.html/images/matcha2.png</loc>
-    <lastmod>2015-10-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://geremia.html/images/geremia%20kino%20banner-01-u1539-fr.jpg</loc>
-    <lastmod>2015-10-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://geremia.html/images/g.png</loc>
-    <lastmod>2015-10-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://geremia.html/images/facebookwhite-dfeefbea3b3a3af225bb0d748e348b60.png</loc>
-    <lastmod>2015-10-13</lastmod>
+    <lastmod>2015-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://geremia.html/images/geremia%20logo.png</loc>
-    <lastmod>2015-10-13</lastmod>
+    <lastmod>2015-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://geremia.html/images/tira_3_728.jpg</loc>
-    <lastmod>2015-10-13</lastmod>
+    <loc>http://geremia.html/images/geremia_logo.png</loc>
+    <lastmod>2015-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://geremia.html/images/1-market.png</loc>
+    <lastmod>2015-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://geremia.html/images/2-takeaway.png</loc>
+    <lastmod>2015-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://geremia.html/images/3-catering.png</loc>
+    <lastmod>2015-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://geremia.html/images/tira_3_582.jpg</loc>
+    <lastmod>2015-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://geremia.html/images/tira_001.jpg</loc>
+    <lastmod>2015-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://geremia.html/images/bonativo-logo.png</loc>
+    <lastmod>2015-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://geremia.html/images/classic.png</loc>
+    <lastmod>2015-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://geremia.html/images/erdbeeren.png</loc>
+    <lastmod>2015-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://geremia.html/images/matcha2.png</loc>
+    <lastmod>2015-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://geremia.html/images/tira_3_728r.jpg</loc>
+    <lastmod>2015-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://geremia.html/images/treviso-canale-dei-buranelli%20(1).jpg</loc>
+    <lastmod>2015-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://geremia.html/images/geremia%20kino%20banner-01.jpg</loc>
+    <lastmod>2015-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://geremia.html/images/g.png</loc>
+    <lastmod>2015-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://geremia.html/images/facebookwhite-dfeefbea3b3a3af225bb0d748e348b60.png</loc>
+    <lastmod>2015-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://geremia.html/images/geremia-tiramis%C3%B9-favicon.ico</loc>
+    <lastmod>2015-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://geremia.html/images/tira_3_582200x192.jpg</loc>
+    <lastmod>2015-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://geremia.html/images/classic155x155.png</loc>
+    <lastmod>2015-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://geremia.html/images/erdbeeren147x147.png</loc>
+    <lastmod>2015-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://geremia.html/images/matcha2159x159.png</loc>
+    <lastmod>2015-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://geremia.html/images/geremia%20kino%20banner-01-u1769-fr.jpg</loc>
+    <lastmod>2015-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://geremia.html/index.html</loc>
-    <lastmod>2015-10-13</lastmod>
+    <lastmod>2015-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://geremia.html/geremia-tiramis%C3%B9.html</loc>
+    <lastmod>2015-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
