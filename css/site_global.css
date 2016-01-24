@@ -121,7 +121,7 @@ a.nontext /* used to override default properties of 'a' tag */
 
 .ts-Default-Link-Style--2 a:visited
 {
-	color: #FFFFFF;
+	color: #7F7F7F;
 	text-decoration: inherit;
 }
 
@@ -133,7 +133,7 @@ a.nontext /* used to override default properties of 'a' tag */
 
 .ts-Default-Link-Style--2 a:active
 {
-	color: #FFFFFF;
+	color: #7F7F7F;
 	text-decoration: underline;
 }
 
